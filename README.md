@@ -1,2 +1,2 @@
 # Data-Manipulation-using-PySpark
-practicing PySpark through manipulating online shop business transaction dataset
+learn PySpark by manipulating online shop business transaction dataset on Databricks Community Edition
